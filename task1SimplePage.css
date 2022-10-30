@@ -1,0 +1,22 @@
+body{
+    background-image: url(/assets/WallpaperDog-10772324.jpg);
+}
+
+.av{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border: radius 50%;
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    
+}
+.bt{
+    text-align: center; 
+ }
+
+
+
